@@ -2,7 +2,452 @@
   "clients": [
       {
         "id": 1,
-        "name": "Test"
-      }
+        "name": "TestClient1",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },
+    {
+        "id": 2,
+        "name": "TestClient2",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },
+    {
+        "id": 3,
+        "name": "TestClient3",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },
+    {
+        "id": 4,
+        "name": "TestClient4",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },
+    {
+        "id": 5,
+        "name": "TestClient5",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },
+    {
+        "id": 6,
+        "name": "TestClient6",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },
+    {
+        "id": 7,
+        "name": "TestClient7",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },
+    {
+        "id": 8,
+        "name": "TestClient8",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 9,
+        "name": "TestClient9",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 10,
+        "name": "TestClient10",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },
+    {
+        "id": 11,
+        "name": "TestClient11",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 12,
+        "name": "TestClient12",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 13,
+        "name": "TestClient13",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 14,
+        "name": "TestClient14",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 15,
+        "name": "TestClient15",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 16,
+        "name": "TestClient16",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 17,
+        "name": "TestClient17",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 18,
+        "name": "TestClient18",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 19,
+        "name": "TestClient19",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 20,
+        "name": "TestClient20",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 21,
+        "name": "TestClient21",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 22,
+        "name": "TestClient22",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 23,
+        "name": "TestClient23",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 24,
+        "name": "TestClient24",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 25,
+        "name": "TestClient25",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 26,
+        "name": "TestClient26",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 27,
+        "name": "TestClient27",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 28,
+        "name": "TestClient28",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 29,
+        "name": "TestClient29",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 30,
+        "name": "TestClient30",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 31,
+        "name": "TestClient31",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 32,
+        "name": "TestClient32",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 33,
+        "name": "TestClient33",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 34,
+        "name": "TestClient34",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 35,
+        "name": "TestClient35",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 36,
+        "name": "TestClient36",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 37,
+        "name": "TestClient37",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 38,
+        "name": "TestClient38",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 39,
+        "name": "TestClient39",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },{
+        "id": 40,
+        "name": "TestClient40",
+        "email": "client@test.com",
+        "status": "paid",
+        "tariff": {
+          "name": "TestTariff",
+          "price": 15000,
+          "currency": "KZT",
+          "description": "TestTariff description"
+        }
+      },
     ]
 }

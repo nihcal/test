@@ -228,50 +228,6 @@
           "currency": "KZT",
           "description": "TestTariff description"
         }
-      },{
-        "id": 21,
-        "name": "TestClient21",
-        "email": "client@test.com",
-        "status": "paid",
-        "tariff": {
-          "name": "TestTariff",
-          "price": 15000,
-          "currency": "KZT",
-          "description": "TestTariff description"
-        }
-      },{
-        "id": 22,
-        "name": "TestClient22",
-        "email": "client@test.com",
-        "status": "paid",
-        "tariff": {
-          "name": "TestTariff",
-          "price": 15000,
-          "currency": "KZT",
-          "description": "TestTariff description"
-        }
-      },{
-        "id": 23,
-        "name": "TestClient23",
-        "email": "client@test.com",
-        "status": "paid",
-        "tariff": {
-          "name": "TestTariff",
-          "price": 15000,
-          "currency": "KZT",
-          "description": "TestTariff description"
-        }
-      },{
-        "id": 24,
-        "name": "TestClient24",
-        "email": "client@test.com",
-        "status": "paid",
-        "tariff": {
-          "name": "TestTariff",
-          "price": 15000,
-          "currency": "KZT",
-          "description": "TestTariff description"
-        }
       }
     ]
 }
